@@ -6,9 +6,146 @@
 </description>
     <link>http://github.com/shahzebhaidar/</link>
     <atom:link href="http://github.com/shahzebhaidar/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2016 16:28:48 +0530</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2016 16:28:48 +0530</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2016 22:19:11 +0530</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 22:19:11 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Markdown Tutorial</title>
+        <description>&lt;h2 id=&quot;markdown-tutorialhttpwwwmarkdowntutorialcomconclusion&quot;&gt;&lt;a href=&quot;http://www.markdowntutorial.com/conclusion/&quot;&gt;Markdown Tutorial&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;bold-and-italics&quot;&gt;&lt;strong&gt;Bold&lt;/strong&gt; and &lt;em&gt;Italics&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;writing in markdown is &lt;em&gt;not&lt;/em&gt; that hard!&lt;/p&gt;
+
+&lt;p&gt;I &lt;strong&gt;will&lt;/strong&gt; complete these lessons.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Of course,”&lt;/em&gt; she whispered. Then, she shouted: “All i need is a &lt;strong&gt;little moxie&lt;/strong&gt;!”&lt;/p&gt;
+
+&lt;p&gt;If  you’re thinking to yourself, &lt;strong&gt;&lt;em&gt;This is unbelievable&lt;/em&gt;&lt;/strong&gt;, you’d probably be right.&lt;/p&gt;
+
+&lt;h3 id=&quot;headers&quot;&gt;Headers&lt;/h3&gt;
+
+&lt;h4 id=&quot;header-four&quot;&gt;Header four&lt;/h4&gt;
+&lt;h5 id=&quot;header-five&quot;&gt;Header five&lt;/h5&gt;
+&lt;h6 id=&quot;header-six&quot;&gt;Header six&lt;/h6&gt;
+
+&lt;h4 id=&quot;colombian-symbolism-in-one-hundred-years-of-solitude&quot;&gt;Colombian Symbolism in &lt;em&gt;One Hundred Years of Solitude&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;Here’s some words about the book &lt;em&gt;One Hundred Years…&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.google.com&quot;&gt;Search For it.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dailykitten.com&quot;&gt;You’re &lt;strong&gt;really, really&lt;/strong&gt; going to want to see this.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;the-latest-news-from-the-bbchttpswwwbbccomnews&quot;&gt;The Latest News from &lt;a href=&quot;https://www.bbc.com/news&quot;&gt;the BBC&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Do you want to &lt;a href=&quot;http://www.zombo.com&quot;&gt;see something fun&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;Well, do I have &lt;a href=&quot;http://www.stumbleupon.com&quot;&gt;the website for you&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Wanna go to &lt;a href=&quot;#headers&quot;&gt;Headers?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/octdrey-catburn.jpg&quot; alt=&quot;A Cat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/founding-father.jpg&quot; alt=&quot;The first father&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/foundingfather_v2.png&quot; alt=&quot;The second first father&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
+
+&lt;p&gt;I read this interesting quote the other day:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Next Quote&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;His father told him that story: his father looked at him through a glass: he had a hairy face.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Next Quote&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: &lt;em&gt;VIVE L’IRLANDE&lt;/em&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Flour&lt;/li&gt;
+  &lt;li&gt;Cheese&lt;/li&gt;
+  &lt;li&gt;Tomatoes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cut the cheese,&lt;/li&gt;
+  &lt;li&gt;Slice the tomatoes,&lt;/li&gt;
+  &lt;li&gt;Rub the tomatoes in flour&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Azalea (&lt;em&gt;Ericaceae Rhododendron&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;Chrysanthemum (&lt;em&gt;Anthemideae Chrysanthemum&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;Dahlia (&lt;em&gt;Coreopsideae Dahlia&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cut the cheese
+  Make sure that the cheese is cut into little triangles.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Slice the tomatoes
+ Be careful when holding the knife.
+ For more help on tomato slicing, see Thomas Jefferson’s seminal essay &lt;em&gt;Tom Ate Those&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;paragraphs&quot;&gt;Paragraphs&lt;/h3&gt;
+
+&lt;p&gt;Two spaces ‘ ‘ at the end of every line&lt;/p&gt;
+
+&lt;p&gt;Do I contradict myself?&lt;br /&gt;
+Very well then I contradict myself,&lt;br /&gt;
+(I am large, I contain multitudes.)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Crack three eggs over a bowl.&lt;br /&gt;
+Now, you’re going to want to crack the eggs in such a way that you don’t make a mess.&lt;br /&gt;
+ If you &lt;em&gt;do&lt;/em&gt; make a mess, use a towel to clean it up!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pour a gallon of milk into the bowl.&lt;br /&gt;
+Basically, take the same guidance as above: don’t be messy, but if you are, clean it up!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;thank-you&quot;&gt;Thank You.&lt;/h3&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2016 15:49:37 +0530</pubDate>
+        <link>http://github.com/shahzebhaidar/tutorial/2016/10/04/markdown-tutorial.html</link>
+        <guid isPermaLink="true">http://github.com/shahzebhaidar/tutorial/2016/10/04/markdown-tutorial.html</guid>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
